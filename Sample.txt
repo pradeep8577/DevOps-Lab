@@ -3,3 +3,5 @@ CPP
 C++
 ReactJS 
 NextJS
+JavaScript
+NodeJS
